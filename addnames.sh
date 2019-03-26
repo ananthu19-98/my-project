@@ -2,6 +2,7 @@
 if [ $# -lt 2 ]
 then
 echo "parameters is not ok"
+echo "newly added"
 exit 1
 else
 echo  " the parameters are ok"
